@@ -38,7 +38,7 @@ For this lab, click on the **Java Cloud-Native** stack and then on the **Create*
 
 ![Eclipse Che Workspace]({% image_path bootstrap-che-create-workspace.png %})
 
-Click on **Open in IDE** to open the workspace and then on the **Start** button to start the workspace for use, if it hasn't started automatically.
+Click on **OPEN** to open the workspace and then on the **Start** button to start the workspace for use, if it hasn't started automatically.
 
 ![Eclipse Che Workspace]({% image_path bootstrap-che-start-workspace.png %})
 
